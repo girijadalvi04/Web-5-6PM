@@ -1,0 +1,167 @@
+target values- 
+blank opens in another tab 
+self 
+parent -parent window
+top -opens in full body window 
+
+
+marquee tag  
+direction 
+left /right/up/down 
+
+behaviour 
+alternate 
+slide
+scrolling 
+
+scrollamt 
+scrolldelay
+
+loop
+vspace hspace 
+
+https://html.spec.whatwg.org/multipage/named-characters.html 
+
+
+css types - 
+inline
+internal 
+external 
+
+style keyword
+
+
+css colors -
+RGB 
+RGBA  opacity  0-light
+HSL/HSLA 
+hue -in degree from (0-360)
+saturation- value is in % 
+0% (shade on grey ) 
+100%(full colour)
+lightness-
+predefined 
+hexadecimal  
+hexadecimal  transparency
+ 
+
+ class 
+ id  
+
+ Box Model - 
+ 4components
+ borders 
+solid 
+dotted
+dashed 
+double
+inset 
+outset 
+ridge 
+groove 
+hidden 
+none
+
+
+ margin 
+ padding 
+ data/content 
+
+ list  
+ ordered list 
+ unordered list 
+ definition 
+ nested 
+
+ position- 
+ static bydefault left right top bottom
+ relative  work according to the web page parent 
+ absolute child  
+ fixed  
+ sticky -nearest top
+
+ left 
+ right 
+ top 
+ bottom 
+  
+
+  display property - 
+  inline 
+  inline-block 
+  block 
+  https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css 
+  
+  animation property- 
+  animation name 
+  duration 
+  delay
+  iteration count
+  direction 
+  timing function
+linear -constant speed
+ease-in -   slow start
+ease-out  fast start
+ease -bydefault slow start-fast -end slow
+ease-in-out -slow start slow end
+cubic 
+step
+
+  css 
+  keyframes 
+  transform 
+  rotate 
+  scale (x,y) 
+  matrix 
+  skew (x.y) 
+  translate 
+
+assignment
+3forms - 
+Registration form 
+name 
+email 
+username 
+pass
+confim pass 
+register
+
+Login Form 
+username 
+pass
+
+student adm- 
+personal info 
+name 
+city 
+number 
+email 
+address 
+
+education- 
+courses 
+previous year marksheet 
+adm year 
+stream 
+degree
+
+form 
+fieldset 
+legend 
+
+scaler/scalable vector graphics -
+rectangle 
+ellipse 
+polygon
+polyline 
+line 
+circle  
+
+github - 
+git clone- copy paste
+git branch- main/master
+git init- intialization
+git push- upload laptop to github
+git pull-  upload github to laptop
+git status- 
+git commit- save
